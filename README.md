@@ -1,5 +1,1 @@
-# Travel-And-Tourism-Management-System
-I developed "Travel And Tourism Management System" web application project using java swing and awt...!
-
-Youtube link of project is given below 👇
-https://youtu.be/dlWg7-uBymU?si=rilYFJbViCvJ1N6C
+PES2UG21CS314_PES2UG21CS323_PES2UG21CS326_PES2UG21CS344_OOADJ_PROJECT_PAYANA-TOURS_AND_TRAVEL
